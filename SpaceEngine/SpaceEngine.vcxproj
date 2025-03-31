@@ -75,8 +75,8 @@
     <LibraryPath>C:\Users\Krzysztof\source\repos\SpaceEngine\SpaceEngine\Libraries\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>C:\Users\Krzysztof\source\repos\SpaceEngine\SpaceEngine\Libraries\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\Krzysztof\source\repos\SpaceEngine\SpaceEngine\Libraries\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>..\SpaceEngine\Libraries\include;$(IncludePath)</IncludePath>
+    <LibraryPath>..\SpaceEngine\Libraries\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
