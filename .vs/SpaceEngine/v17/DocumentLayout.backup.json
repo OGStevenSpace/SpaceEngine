@@ -15,40 +15,48 @@
       "RelativeMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|solutionrelative:SpaceEngine\\default.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\VAO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|solutionrelative:SpaceEngine\\VAO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\stb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|solutionrelative:SpaceEngine\\stb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|solutionrelative:SpaceEngine\\VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\EBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|solutionrelative:SpaceEngine\\EBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\EBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|solutionrelative:SpaceEngine\\EBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\VBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|solutionrelative:SpaceEngine\\VBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\VBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|solutionrelative:SpaceEngine\\VBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|C:\\USERS\\K.OLEKSIAK\\DOCUMENTS\\SPACEENGINE\\SPACEENGINE\\LIBRARIES\\INCLUDE\\STB\\STB_IMAGE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|solutionrelative:SPACEENGINE\\LIBRARIES\\INCLUDE\\STB\\STB_IMAGE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|solutionrelative:SpaceEngine\\shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\EBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|solutionrelative:SpaceEngine\\EBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\shaderClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|solutionrelative:SpaceEngine\\shaderClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|solutionrelative:SpaceEngine\\VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\VBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|solutionrelative:SpaceEngine\\VBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\EBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|solutionrelative:SpaceEngine\\EBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|solutionrelative:SpaceEngine\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\VAO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|solutionrelative:SpaceEngine\\VAO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\VBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2BA67CD-08F1-4C0D-AE25-B8E4EA6EF2B6}|SpaceEngine\\SpaceEngine.vcxproj|solutionrelative:SpaceEngine\\VBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,33 +74,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VAO.cpp",
-              "DocumentMoniker": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\VAO.cpp",
-              "RelativeDocumentMoniker": "SpaceEngine\\VAO.cpp",
-              "ToolTip": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\VAO.cpp",
-              "RelativeToolTip": "SpaceEngine\\VAO.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\Main.cpp",
+              "RelativeDocumentMoniker": "SpaceEngine\\Main.cpp",
+              "ToolTip": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\Main.cpp",
+              "RelativeToolTip": "SpaceEngine\\Main.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-01T10:27:31.286Z",
+              "WhenOpened": "2025-03-30T07:31:50.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "VAO.h",
-              "DocumentMoniker": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\VAO.h",
-              "RelativeDocumentMoniker": "SpaceEngine\\VAO.h",
-              "ToolTip": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\VAO.h",
-              "RelativeToolTip": "SpaceEngine\\VAO.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABtAAAAAAAAAA==",
+              "Title": "stb_image.h",
+              "DocumentMoniker": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\Libraries\\include\\stb\\stb_image.h",
+              "RelativeDocumentMoniker": "SpaceEngine\\Libraries\\include\\stb\\stb_image.h",
+              "ToolTip": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\Libraries\\include\\stb\\stb_image.h",
+              "RelativeToolTip": "SpaceEngine\\Libraries\\include\\stb\\stb_image.h",
+              "ViewState": "AgIAAOICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-01T10:25:08.9Z",
+              "WhenOpened": "2025-04-01T15:40:48.354Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "stb.cpp",
+              "DocumentMoniker": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\stb.cpp",
+              "RelativeDocumentMoniker": "SpaceEngine\\stb.cpp",
+              "ToolTip": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\stb.cpp",
+              "RelativeToolTip": "SpaceEngine\\stb.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-01T14:02:02.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "EBO.cpp",
               "DocumentMoniker": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\EBO.cpp",
               "RelativeDocumentMoniker": "SpaceEngine\\EBO.cpp",
@@ -100,8 +121,31 @@
               "RelativeToolTip": "SpaceEngine\\EBO.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-01T10:21:33.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T10:21:33.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VAO.h",
+              "DocumentMoniker": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\VAO.h",
+              "RelativeDocumentMoniker": "SpaceEngine\\VAO.h",
+              "ToolTip": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\VAO.h",
+              "RelativeToolTip": "SpaceEngine\\VAO.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-01T10:25:08.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VAO.cpp",
+              "DocumentMoniker": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\VAO.cpp",
+              "RelativeDocumentMoniker": "SpaceEngine\\VAO.cpp",
+              "ToolTip": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\VAO.cpp",
+              "RelativeToolTip": "SpaceEngine\\VAO.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-01T10:27:31.286Z"
             },
             {
               "$type": "Document",
@@ -113,25 +157,11 @@
               "RelativeToolTip": "SpaceEngine\\EBO.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-01T10:19:56.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T10:19:56.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "VBO.cpp",
-              "DocumentMoniker": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\VBO.cpp",
-              "RelativeDocumentMoniker": "SpaceEngine\\VBO.cpp",
-              "ToolTip": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\VBO.cpp",
-              "RelativeToolTip": "SpaceEngine\\VBO.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-01T10:16:02.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "VBO.h",
               "DocumentMoniker": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\VBO.h",
               "RelativeDocumentMoniker": "SpaceEngine\\VBO.h",
@@ -139,12 +169,11 @@
               "RelativeToolTip": "SpaceEngine\\VBO.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-01T10:13:31.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T10:13:31.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "shaderClass.cpp",
               "DocumentMoniker": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\shaderClass.cpp",
               "RelativeDocumentMoniker": "SpaceEngine\\shaderClass.cpp",
@@ -157,7 +186,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
+              "Title": "VBO.cpp",
+              "DocumentMoniker": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\VBO.cpp",
+              "RelativeDocumentMoniker": "SpaceEngine\\VBO.cpp",
+              "ToolTip": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\VBO.cpp",
+              "RelativeToolTip": "SpaceEngine\\VBO.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-01T10:16:02.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "shaderClass.h",
               "DocumentMoniker": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\shaderClass.h",
               "RelativeDocumentMoniker": "SpaceEngine\\shaderClass.h",
@@ -165,8 +206,7 @@
               "RelativeToolTip": "SpaceEngine\\shaderClass.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-01T09:59:25.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T09:59:25.419Z"
             },
             {
               "$type": "Document",
@@ -174,9 +214,9 @@
               "Title": "default.frag",
               "DocumentMoniker": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\default.frag",
               "RelativeDocumentMoniker": "SpaceEngine\\default.frag",
-              "ToolTip": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\default.frag*",
-              "RelativeToolTip": "SpaceEngine\\default.frag*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\default.frag",
+              "RelativeToolTip": "SpaceEngine\\default.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-04-01T09:58:09.903Z",
               "EditorCaption": ""
@@ -189,22 +229,9 @@
               "RelativeDocumentMoniker": "SpaceEngine\\default.vert",
               "ToolTip": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\default.vert",
               "RelativeToolTip": "SpaceEngine\\default.vert",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-04-01T09:56:24.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\Main.cpp",
-              "RelativeDocumentMoniker": "SpaceEngine\\Main.cpp",
-              "ToolTip": "C:\\Users\\K.Oleksiak\\Documents\\SpaceEngine\\SpaceEngine\\Main.cpp",
-              "RelativeToolTip": "SpaceEngine\\Main.cpp",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAEIAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-30T07:31:50.783Z",
               "EditorCaption": ""
             },
             {
